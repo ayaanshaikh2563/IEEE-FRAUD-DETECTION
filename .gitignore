@@ -1,0 +1,9 @@
+# Virtual Environment
+CC-fraud/
+
+# Large Data Files
+*.csv
+*.zip
+
+# Python Cache
+__pycache__/
